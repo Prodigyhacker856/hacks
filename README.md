@@ -16,7 +16,7 @@
 
 - ✅ **Get Gold**
 - ✅ **Set User Level**
-- ✅ **Unlock All Items (Unlock All Furniture Included)** (and if it does now work, try it in battle) 
+- ✅ **Unlock All Items (Unlock All Furniture Included) (and if it does now work, try it in battle)** 
 - ✅ **Unlock All Pets** (recently fixed)
 - ✅ **Health Hack (Player)**
 - ✅ **Free Membership** (temporary, view FAQ)
