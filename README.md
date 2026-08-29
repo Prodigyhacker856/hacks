@@ -28,7 +28,7 @@
 
 ## 🤖 Features with Problems:
 
-- Likely a couple (and most that have not been recently updated as part of the fixes), report to Issues and if it is in popular demand then I might try to fix it!
+ report to Issues and if it is in popular demand then I might try to fix it!
 
 ## FAQ
 
