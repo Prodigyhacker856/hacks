@@ -69,7 +69,7 @@
 
 ### ALL THE HACKS DONT WORK! 
 
-sometimes the hacks, you need to go in the house or a battle for it to work 
+- Sometimes the hacks, you need to go in the house or a battle for it to work 
 
 #### I am not responsible for your actions with these cheats.
 
