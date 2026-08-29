@@ -12,7 +12,7 @@
 ✅ indicates fixed, should-be working features<br>
 ⚙️ indicates features to be fixed soon (currently none)<br>
 ⚠️ indicates semi-working ("to an extent") features<br>
-❌ indicates unfixed features<br>
+
 
 - ✅ **Get Gold**
 - ✅ **Set User Level**
