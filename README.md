@@ -67,6 +67,10 @@
 
 - It does. Refresh. If it still doesn't (it should), try executing the script outside of a battle, so when you are in the "world"
 
+### ALL THE HACKS DONT WORK! 
+
+sometimes the hacks, you need to go in the house or a battle for it to work 
+
 #### I am not responsible for your actions with these cheats.
 
 ## How To Use:
