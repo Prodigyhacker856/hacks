@@ -2,7 +2,6 @@
 <h3 align="center">One of the best Prodigy Math hacks.</h3>
 <h2 align="center">MAJOR FIXES!!!</h3>
 
-#### Made by rxzyx (rzx). This is purely for education purposes.
 #### I have fixed a couple of features, the more demanded ones.
 #### Features that were previously fixed have once again been fixed.
 - 📫 Have a problem? **Just write an issue and I will do my best to respond.**
